@@ -1,4 +1,40 @@
-body {background-color:tan;}
-h1{color:green;}
+body 
+{
+    background-color:black;
+    font-family:arial;
+    color:white
+}
+h1
+{
+    color:grey;
+    font-family:verdana
+}
+.maindiv 
+{
+    background-color: white;
+    color: black;
+    width: 500px;
+    padding: 20px;
+    border-radius: 25px;
+    margin: auto;
+    align-items: center;
+}
 
+label
+{
+    width: 240px;
+    height: 30px;
+    font-weight: bold;
+    display: inline-block;
+}
 
+button
+{
+    border-radius: 2px;
+    font-weight: bold;
+    font-size: large;
+}
+
+.highlight {
+    background-color: rgb(145, 255, 2);
+  }
